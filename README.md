@@ -1,4 +1,4 @@
-# AppsAnywhere-on-Linux
+# AUS AppsAnywhere-on-Linux
 
 For this guide to work, you should have already completed the steps listed [here](https://github.com/sammuraii/AUSVPN-on-Linux/).
 
